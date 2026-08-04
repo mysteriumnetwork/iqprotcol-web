@@ -723,11 +723,11 @@ function renderStatus(): string {
 
 function renderHome(): string {
   return `
-    ${renderPoolCard()}
+    ${state.wallet ? "" : renderPoolCard()}
     ${renderWalletSection()}
     ${renderStatus()}
     <p class="footer">
-      Read-only pool data loads without a wallet.
+      ${state.wallet ? "" : "Read-only pool data loads without a wallet. "}
       Unstake is on-chain and irreversible for each position.
       Source: IQ Protocol
       <a href="https://github.com/iqlabsorg/iq-smart-contracts" target="_blank" rel="noopener noreferrer">contracts</a>.
@@ -747,15 +747,6 @@ function render() {
     <header>
       <h1>Mysterium IQ Pool</h1>
       <p class="subtitle">${subtitle}</p>
-      <p class="contract">
-        Enterprise
-        <a
-          href="https://polygonscan.com/address/${ADDRESSES.enterprise}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >${ADDRESSES.enterprise}</a>
-        · Polygon
-      </p>
       ${renderNav()}
     </header>
 

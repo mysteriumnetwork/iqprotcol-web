@@ -1,0 +1,22 @@
+{
+  "name": "iq-myst-withdraw",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "fetch-stakers": "node scripts/fetch-stakers.mjs",
+    "fetch-borrowers": "node scripts/fetch-borrowers.mjs",
+    "fetch-snapshots": "npm run fetch-stakers && npm run fetch-borrowers",
+    "fetch-balances": "npm run fetch-snapshots"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.0.7"
+  }
+}

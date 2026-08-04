@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "chainId": 137,
+  "enterprise": "0xbF9F6b1D910AA207DaA400931430ef110570F8FF",
+  "rentalToken": "0xa714cF1267F4a701B646c5CbF660C4B1aCb7A82e",
+  "updatedAt": "1970-01-01T00:00:00.000Z",
+  "blockNumber": null,
+  "elapsedMs": 0,
+  "positionCount": 0,
+  "borrowerCount": 0,
+  "totalRented": "0",
+  "activeCount": 0,
+  "permissionlessCount": 0,
+  "borrowers": []
+}

@@ -1,0 +1,50 @@
+# Optional: daily on-chain scan → commit public/data/stakers.json.
+# Enable when this app lives in its own GitHub repo (or adjust paths).
+#
+# Manual: Actions → "Fetch stakers snapshot" → Run workflow
+# Local:  npm run fetch-stakers && git add public/data/stakers.json && git commit && git push
+
+name: Fetch stakers snapshot
+
+on:
+  schedule:
+    # ~06:15 UTC daily
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Scan pool (stakers + borrowers)
+        env:
+          RPC_URL: ${{ secrets.POLYGON_RPC_URL }}
+        run: npm run fetch-balances
+
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/stakers.json public/data/borrowers.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update pool snapshots $(date -u +%Y-%m-%d)"
+            git push
+          fi

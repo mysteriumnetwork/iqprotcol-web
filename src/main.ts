@@ -1,5 +1,5 @@
 import "./style.css";
-import { ADDRESSES, POLYGON_CHAIN_ID } from "./config";
+import { POLYGON_CHAIN_ID } from "./config";
 import { formatMyst, shortAddress } from "./format";
 import {
   fetchAllStakers,

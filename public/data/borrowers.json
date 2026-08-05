@@ -3,13 +3,1646 @@
   "chainId": 137,
   "enterprise": "0xbF9F6b1D910AA207DaA400931430ef110570F8FF",
   "rentalToken": "0xa714cF1267F4a701B646c5CbF660C4B1aCb7A82e",
-  "updatedAt": "1970-01-01T00:00:00.000Z",
-  "blockNumber": null,
-  "elapsedMs": 0,
-  "positionCount": 0,
-  "borrowerCount": 0,
-  "totalRented": "0",
+  "updatedAt": "2026-08-05T07:28:28.758Z",
+  "blockNumber": 91473233,
+  "elapsedMs": 33034,
+  "positionCount": 215,
+  "borrowerCount": 204,
+  "totalRented": "4044800000000000000000",
   "activeCount": 0,
-  "permissionlessCount": 0,
-  "borrowers": []
+  "permissionlessCount": 215,
+  "borrowers": [
+    {
+      "address": "0xf9b619b74125fa3c3425259f084879061b5d9f8a",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000000"
+    },
+    {
+      "address": "0x95023deef426f5df91f3f02121949e72bd18543f",
+      "positionCount": 1,
+      "totalRented": "500000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "500000000000000000000"
+    },
+    {
+      "address": "0x93b042c6b5b2133eab9e8d19f6374a92d3dccece",
+      "positionCount": 1,
+      "totalRented": "400000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "400000000000000000000"
+    },
+    {
+      "address": "0x489b7dfdfe15dacf2cbcffc501dd4d0ca2904940",
+      "positionCount": 1,
+      "totalRented": "308000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "308000000000000000000"
+    },
+    {
+      "address": "0xec038ad6656e0f5efab2f201824a5871ec54cb28",
+      "positionCount": 1,
+      "totalRented": "100000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "100000000000000000000"
+    },
+    {
+      "address": "0x43a6ea041a715475bf4e255e58fd8f3d809323db",
+      "positionCount": 1,
+      "totalRented": "98000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "98000000000000000000"
+    },
+    {
+      "address": "0x0ceb592733217aa08b36c1950c5ccdb793b220bd",
+      "positionCount": 1,
+      "totalRented": "60000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "60000000000000000000"
+    },
+    {
+      "address": "0xbc53f5f6a6a1315d7d65b23bcd8e55c4965ed8cb",
+      "positionCount": 1,
+      "totalRented": "50000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "50000000000000000000"
+    },
+    {
+      "address": "0x311a8b4e9da6e6c0e958193f6a31938c48ee27b8",
+      "positionCount": 1,
+      "totalRented": "50000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "50000000000000000000"
+    },
+    {
+      "address": "0x0e0bab764f38d63abf08680a50b33718c98b90e6",
+      "positionCount": 1,
+      "totalRented": "45000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "45000000000000000000"
+    },
+    {
+      "address": "0xcc4ea5d784df6dac27585dfccc34d6c1a47fafde",
+      "positionCount": 1,
+      "totalRented": "42000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "42000000000000000000"
+    },
+    {
+      "address": "0x2eb4f14340c03ae44c2ad46443353af561e68689",
+      "positionCount": 1,
+      "totalRented": "40000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "40000000000000000000"
+    },
+    {
+      "address": "0x198d31f5e2d91533fe7714c48d6ebf453dc0736f",
+      "positionCount": 1,
+      "totalRented": "30000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "30000000000000000000"
+    },
+    {
+      "address": "0x863cfa8ade7a9001678f6bafd075fabf2e9808f4",
+      "positionCount": 1,
+      "totalRented": "26000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "26000000000000000000"
+    },
+    {
+      "address": "0x626e1272ad4eb4d9eeb449206492c6aee397b7d8",
+      "positionCount": 1,
+      "totalRented": "23000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "23000000000000000000"
+    },
+    {
+      "address": "0xc9d47ce6cae0adc1806fb27086945f1240ca5b05",
+      "positionCount": 1,
+      "totalRented": "22000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "22000000000000000000"
+    },
+    {
+      "address": "0x4844c0f3608cd7909439c2e26d67d6659b7dae57",
+      "positionCount": 1,
+      "totalRented": "22000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "22000000000000000000"
+    },
+    {
+      "address": "0x4c5417dd39ab4934222df9a3bfea6ac88348432c",
+      "positionCount": 1,
+      "totalRented": "22000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "22000000000000000000"
+    },
+    {
+      "address": "0xb99fe50430d50ad19032cb6b0ded4b7565632441",
+      "positionCount": 1,
+      "totalRented": "21000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "21000000000000000000"
+    },
+    {
+      "address": "0x6ecae26390fc84afdff77699aa12e430001bab07",
+      "positionCount": 2,
+      "totalRented": "20000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "20000000000000000000"
+    },
+    {
+      "address": "0x45669e27d7820c1bc3cbfa28ee7c81a4b4c04202",
+      "positionCount": 1,
+      "totalRented": "20000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "20000000000000000000"
+    },
+    {
+      "address": "0x5e68194a9e3c84cc128459d2ef72cb4df46e7ed7",
+      "positionCount": 1,
+      "totalRented": "20000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "20000000000000000000"
+    },
+    {
+      "address": "0xafeb899cc87a61f28074649dd5f8b435b5ca50c6",
+      "positionCount": 1,
+      "totalRented": "15000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "15000000000000000000"
+    },
+    {
+      "address": "0x36657cb18780b3a71f6741b284a546bc6c22215f",
+      "positionCount": 1,
+      "totalRented": "15000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "15000000000000000000"
+    },
+    {
+      "address": "0x3bf83739a4c5ca750881cbbe7c5dc766f10a26e2",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xc251137261e9a6af8d0a5000b2337a9ec97b0d7b",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x42e72ba1c26c1c939405b76f5b281d73c9b9ec20",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x6c7248c2ae98d730fa4ae147cc55e6cc4bf7e8e0",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x22c5cd29cc5ef88e9f88f4360b51059cc1d36f57",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x448368af39d4b2e7e830843c71cfc5fef627c208",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x4384e716c6893c1a1b81fedbbf9fddcf38ab67f1",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x8522f54887fa0b9449e538f39d8fa06f1f457dbe",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x3a720b2e7c06c2df0cd2467c0bcb4935fd57a2fc",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x060684689942e0a94fe1be54a6efc5878a4cc0ca",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x2b9abb12f0b9b778bd90434f4ef4f16a74110e01",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xe5dbd77323274f041a4526875ae9c22b270455fb",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x70ce30fb24307f43dda1afb2329beae9c2a034fc",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x5a42b5ba101bc169887f111caaf273efacb9d4a4",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x08653d6a3f2385d22653dc091b4580300979e343",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xb0b4a7069ab5a7bee297474f8d3237654dedcf74",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xfcb81d72f3b9eba0f22147dd6529eff0088f2a3a",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xea2f643ac8a9a3b046bcd7b5ba87c1a46e8e41f0",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0x860ba28573a77c08635022d45f91db3dd541c70e",
+      "positionCount": 1,
+      "totalRented": "12000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "12000000000000000000"
+    },
+    {
+      "address": "0xfaf0b9efd589edfb7fee55845f3e5bd3e988e1ae",
+      "positionCount": 1,
+      "totalRented": "11000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "11000000000000000000"
+    },
+    {
+      "address": "0x208e241cf4ccad9ccceb2b6e72c89ae36d790aaa",
+      "positionCount": 1,
+      "totalRented": "11000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "11000000000000000000"
+    },
+    {
+      "address": "0xab5a3dc107e8fd6013181da50afc3933d72e73c3",
+      "positionCount": 1,
+      "totalRented": "11000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "11000000000000000000"
+    },
+    {
+      "address": "0x61256d8baa58620d81bbd08ff26415e835b95ef4",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x01237dc1bc72502b21f765ff047aa72f4617ddbd",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x40627c17fac80799e02596de4ed843474232602b",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x4ae12e6815e53eb26c01ebde2264df2c39a9e988",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xbcce8e5bb2389e7c231f6fd0b550af29f3c87bca",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xb342406be801b69012a20bfab49771da2dcb4890",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x276d551a33d891038defcc8d1c6d079b24ff7081",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x08bd5e094764af0c1c3033a5eabad21a387741f6",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xb3fdf24e2074ff87a9561e003d773e19ee27333c",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x5a049ebe9821071f48ba8c33457dc2b9067b898e",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x5fa96888f3c98af3aff5c4c133cf3b5f71b8272c",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xf52af420178f4b0d8a9cb699df43e1221488b5b3",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x7595e96294ed12a79e728c968099700e41f16e72",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xece8ed0e15a95cbbfdc471dac61b9f175f4a1ae7",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xcf154197120aee53c7eb97f9e27f3fca0a3a4d93",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x72e09594c2fd1ce64791c22e409f393f8bc316c0",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x5eeade91d6403d49bfdc67d17d1616b8a6bcccaa",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xd2d565f32749d05fcae7123a0970f3d14424cb11",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x26ee1df899a203294ee6ad633867d5512a26afb6",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x434762d8e4d74243438f4a07abf86c77da63ab4e",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x4ed311298283b11a78f111dec41e18268ab5a7d5",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x866f37cc7a9ba47a99e85e79b84da7c46a398d46",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x15f71bbb2b9dab5d75f92679574b7a773f911895",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x837d051013736e7704e53ba70f98fddae073a03d",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x1af4360d99f7eed049df8f0c505d42b79f306747",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x53188891df66d398f2989c8a93bf749dab6ef27f",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x35fd454e324fafef0ee021b9cbd51a3d4de134ad",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x0b3038a147712f94848fc0f909c438b75aa45787",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x3b01a13fb9af94d044e096759c1c4b2d756f8d5a",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xfee9e660a0eecadbe4722e10b969792e48f1fd4a",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x2ac8b0ba256cfc5f967edd983434d94cd2f2082c",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x4915187be5ae8bdad50485ac463ff739d59656f8",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xd225d87c2edbfb3c0d79e55d50d0bdeca26ecdd4",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x7062a5cc9b8249bbd5419c3f58346dc4305d2efd",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0x1a0fac0b0787be1b21bb845c3220cc1bafbba03f",
+      "positionCount": 1,
+      "totalRented": "10000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "10000000000000000000"
+    },
+    {
+      "address": "0xedcfa2d2bcd4de527c15d8aa89ae52da409a2068",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xde5cec4e1174928577354f0990f7f444d4583aaa",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x39e3295477bf1a62bc5fc5b02efd41c48503a74a",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x78e1035bab132cc1fddc095668eb84264b9fc498",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xe7b8a8a22a93f6c6c8203a02f4639ac96b69749c",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xba5bc332618469d6d99be0c2f13f8bf78ecdaa5c",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xbb39982922d0c421a33e0362252ac86ce2f9f31b",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xd75eab62950021e0aa3bd2f7961fd03d91d55d74",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x777ce35f3d92422742a8756db278213a53ab4aa5",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xccdee7b8b59db157eaa03bef49a60d44e474ef26",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x0240b0241f62f71729079aa1830b11343d065e9c",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x659a7abfdcbf42212d9f6bc19912aee26a0a9679",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x5fde9b530a5e96f0be3656350ac020f7fc12ff48",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0xffbbe3387d4d1d18a70202ab1833af92ba4262c2",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x9d448364cd3ae1de404f76e691e58e129cedac7d",
+      "positionCount": 1,
+      "totalRented": "8000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "8000000000000000000"
+    },
+    {
+      "address": "0x05780c2d8ca2feb85bca63db383f8e26da70a094",
+      "positionCount": 1,
+      "totalRented": "7000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "7000000000000000000"
+    },
+    {
+      "address": "0x25ba9951ce2d1d30fd6ec280b7f408c54a722d1b",
+      "positionCount": 1,
+      "totalRented": "7000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "7000000000000000000"
+    },
+    {
+      "address": "0xe9a61f5f6b7c32111a77ddf196532c2ebe113750",
+      "positionCount": 1,
+      "totalRented": "7000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "7000000000000000000"
+    },
+    {
+      "address": "0x4d14bfee0170763e409f302bb9cb540757208d79",
+      "positionCount": 1,
+      "totalRented": "7000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "7000000000000000000"
+    },
+    {
+      "address": "0xb2638567de18e8ecdd6bf8aaaaa34aa86da54f10",
+      "positionCount": 1,
+      "totalRented": "7000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "7000000000000000000"
+    },
+    {
+      "address": "0x1105d09ac59d842a2dfeb9f1003df741b7215b25",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x7f0f0ff8cd65ca064eace4d62f142ec081b9b4f9",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x1c013df301f9de220febdcc49c388e7203c2fc3c",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x31c341ade60927f848427a7319fd00d30c311c44",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x90604f1c77c5ac853d9d7f64cea0967cf3b33b21",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x961b93cd86b80ccfdb7c50e17868d77d429ca526",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xecab118c8cfccdd8ab623e40701b138d4f3adb2b",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x42e5f81a908a0206776ff7e06eaa39f8fb3b378f",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xe19ac7718e6c437086d9114a71f20cfe0fefae27",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x97d4b2740f77cd4a307178997a68619629df7100",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x39fda044dc136248b1e85f2bfdb03847b02d1965",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x2d73249d1af34ca72dec722c58099f7b9bca6596",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x850286c4e8c91c3ee9f28e1abfef0eb67465b235",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x50440d0169c10720bf96f395b149d8ce8ab396e2",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x9c50817f5df626ecbc079e83f64332453a7dc39b",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xa0ec92d54d2e7d1bf65dca247c4f907fe2a0006b",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xd6dddb29297f3efe3cd3221df3d09e6b2154f024",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xebad7e1334a4daecf4792e8358928177b08315e2",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x4aeebc590f1103b646df32645bf4ebd165fe8679",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xd35d6f8a98af22858233058022cdb39445a34660",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xb042a82731d925410fff243ea506f95bfee016d6",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0x62be9b60429f860d4452e4855aa002e17ffb9b8d",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xe780ae523ae3728211b136c17b81e76595bee77b",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xe8fc0c6992ea70fe88b492d145a0b1973664c7e5",
+      "positionCount": 1,
+      "totalRented": "6000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "6000000000000000000"
+    },
+    {
+      "address": "0xb615757afe0121b8ae992c3b68905b768b309506",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x141c92ec0a9c26abe07ad4f5e46dd93c5d938aa1",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x433a23fe68904a11ef9742a33c392a26152c368c",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x09f6868a7a805754992a012a44e99c81baa28973",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x8273d83b94545a59a4315b61638bcabcfd3576f8",
+      "positionCount": 2,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0xebef6b0556559adf2d10aa08b2966d7dd26430bd",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x782ffc992387d562afa3475b1d799b3cac38e1b0",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0xef38887b95357201b8351f1ecc8aa7d7621fd0c9",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0xbe213d6bc24d6ae2d787fe49260f3952087537d1",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x291fc19b3f0957a4b7c43130d6be40e5f117f6d6",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x56f2afc98b02214889ecf9678a241c4dd18214c9",
+      "positionCount": 1,
+      "totalRented": "5000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "5000000000000000000"
+    },
+    {
+      "address": "0x8e8fc9a7e460ba239a5dc43aa860c51fbac2b8f4",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0x0ae513f7a9f674ebf69a4106e65e4c8d024fc741",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0x809e87c643b5e2550b85c94418631ad3e6a9ad47",
+      "positionCount": 2,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0xc58818deab6507fd6a536b720c64387261220f5b",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0x87578ed536cfc3d0991edf43c239361d43357ff1",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0x02a3fbe6d64eb4fc256dfba5566b7d95a790f3d8",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0x015f4cf8f94ac0ef992829e3ee623a9d0a5fb278",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0xe17088381576e05fdcf005c6f0fac752f1e42e6d",
+      "positionCount": 1,
+      "totalRented": "4000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "4000000000000000000"
+    },
+    {
+      "address": "0xc9e5e1338bbcea936f0404870c6f86a2a9bad767",
+      "positionCount": 2,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0x775348ba8ff2fe0a5fb2b671ca0ccfafecdce4f2",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xfccc3652f2c9ef41ccdafde97ac840e9077bdb25",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0x0d0f064be8b00da0b9e3524662984a1bc850e6ef",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xe77269528b664b66abce6b8e86e55473f23f2cbe",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0x21abe1f94cdc0691b12f5ef3ab7394e11169b1f5",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0x85eab49ead2a8d792a48292b730c420e7f34d6ce",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0x1428aa67d2fb4defa2305a0af2bcf348d9b80160",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xfac6e27fa611556075af6880d46eb5afa62d658c",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xc57908f5eaf0e724a979276b424bb825fbfda3a4",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xa6d74502a46b570308575f91d5c59457b2c4980b",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xc4ef875f9749f8b15b85c5ee8e1ea760627f4531",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xbe0406ef27983bab327c96fbe11caa3a3caf893a",
+      "positionCount": 1,
+      "totalRented": "3000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "3000000000000000000"
+    },
+    {
+      "address": "0xa4087a030417f6c29b3d465360fb8615ae517d36",
+      "positionCount": 2,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x76feb15406fd0637b95c871bfa8c71fbb1854dd0",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xdacc5a4f232406067da52662d62fc75165f21b23",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x76a3868155b5d78df56f751295ed50fa5f87cc71",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x198ecd46db86f4638a3f7f99e27eaecbfc62051c",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xb0647a498731ad35ca476d9cedde7bd002b87e31",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xc5dcbc5746ac7675c7c73b346ae64269edbae757",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xb92ef9e2d5e8c4f454d7907bc40b85e43306a353",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x4b462f7f3dfc789df400bfba46bae8dafc12ed78",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xed9a9f5754cc0d1653be787f53808f19b5362507",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xd35143f4fbf633d8ad855e88a54776aa430fbbf7",
+      "positionCount": 2,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x82aaf8a4b8f6de8ae1a54dda1dee79e19471da93",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x63bcbf46fd28feb0c60a8a13d101289e332c3f83",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x9d0c9f6816edb557ae926f8370b7fa119921941b",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0xaf3b5ed23b56059d2ce9a39ae3818185932fcb35",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x273d16174ee39294c9b970fac8e94a4f26ee9e0b",
+      "positionCount": 1,
+      "totalRented": "2000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "2000000000000000000"
+    },
+    {
+      "address": "0x6a111f7d28856385263eedba7e12b37e4eed7997",
+      "positionCount": 1,
+      "totalRented": "1500000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1500000000000000000"
+    },
+    {
+      "address": "0x0f2a53194bddcf5d5f04703d41d46c101a109ab6",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x00091b44f98a9dfbaf12cff719bba49ec41e0000",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xe371da53e59b2798ecd81d12bedfea95d01dc0fc",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x235047ed79b2b7e61ed5c1735944450ed9b65fe9",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x11814b3b2be0434446e6ee6efd5d8d4b72355a90",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x82dedcf7212f0e10d0f934b254d75bc9648c3378",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x18f14914a9cb190ce10b68d8b900a8601cb39794",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xa1a5d8152de5fc033c8e4b571addd1adfc7f5869",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xb6e43cb0a129b8c3db75ddf78b9fcedd78fd4e26",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x843d2693431c6a20696e270713cc820d978df593",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x54c6c15083d7aab0990319457b600510d685635e",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x5254b002fcae6f4398e234704d2bae7cdcb8ea12",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x6c9ae7ecf133f73103369268a0a6dbf2f83bf3bf",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x8f4d1bf44205c9d68212e8063fe111e99a7fa31c",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xaee6bf095836502ffe02c03a4197a4be2dcdcee6",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x335118b87627a0e8f14455518632c474562d6a01",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xd82013a719c2aea764da032f7d9e646fb2b0aba4",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x21f397feaade9f6fc52a45c7b82f807ee0ffa0ef",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x39ba9f859bc7756d98a6ee09fb95cff089f84b3f",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x635d74b3fc37da5a47816aa2b28cacdeb609b76b",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x37fba0876d31de7807c462cfa7d2297955291f00",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xf6f8758e0ea29d3eac0a5043fbb536a36ba0d05f",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xe046a4a48aac0db4eed074389b75b9e25059f067",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x9f5424cd6f47345cdcd36a98b29903ee99a2d710",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0xb4a3b607fea1dca5b7a91fd22dd5e71620a379ae",
+      "positionCount": 1,
+      "totalRented": "1000000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 1,
+      "permissionlessAmount": "1000000000000000000"
+    },
+    {
+      "address": "0x7f010192d9398a1059f6449f1611fd9cc87d70b4",
+      "positionCount": 2,
+      "totalRented": "330000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "330000000000000000"
+    },
+    {
+      "address": "0xa5afabc74d9e40903862d9994e6f5c8c33f9980f",
+      "positionCount": 2,
+      "totalRented": "310000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "310000000000000000"
+    },
+    {
+      "address": "0xf1fdaa157a9c7943692171c95b8f73c8c2fd655f",
+      "positionCount": 2,
+      "totalRented": "220000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "220000000000000000"
+    },
+    {
+      "address": "0x04be358ff3caf8d18451a96f6dea1518988fbb23",
+      "positionCount": 2,
+      "totalRented": "220000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "220000000000000000"
+    },
+    {
+      "address": "0x299667e0b886bc54b74c6229730c2aa6082c9af3",
+      "positionCount": 2,
+      "totalRented": "220000000000000000",
+      "activeCount": 0,
+      "permissionlessCount": 2,
+      "permissionlessAmount": "220000000000000000"
+    }
+  ]
 }
